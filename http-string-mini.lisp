@@ -1,3 +1,5 @@
+(in-package :cl-user)
+
 ;;read-input-string
 (defun split-string (string &key (delimiter (string #\space)) (max -1))
     (let ((pos (search delimiter string)))
