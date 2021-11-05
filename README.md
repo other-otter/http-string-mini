@@ -1,4 +1,5 @@
 # http-string-mini
+(ql:quickload :http-string-mini)
 
 ```common-lisp
 #|how to use the code
