@@ -2,7 +2,6 @@
 
 ```common-lisp
 #|how to use the code
-;(load "http-string-mini.lisp")
 
 ;(read-input-string the-http-string)
 ;input-type: string ;output-type: list 
