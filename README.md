@@ -1,8 +1,9 @@
 # http-string-mini
-(ql:quickload :http-string-mini)
 
 ```common-lisp
 #|how to use the code
+
+;(ql:quickload :http-string-mini)
 
 ;(read-input-string the-http-string)
 ;input-type: string ;output-type: list 
